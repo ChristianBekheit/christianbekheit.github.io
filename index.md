@@ -8,7 +8,7 @@
 ---
 
 ## Moving SSO Secrets Out of Plaintext on AWS
-*Cloud & Infrastructure Engineer Intern, Spring 2025. Details generalized; no client or account information is shown.*
+*Cloud & Infrastructure Engineer Intern, Spring 2025.*
 
 ### The problem
 I worked on the SAML single sign-on service that lets users at 8+ client institutions log in. The SSO servers kept their private keys and certificates as plaintext files on disk. Anyone who gained access to a server could read the keys that prove the service's identity, and those keys lived on each server instead of in one managed, access-controlled place. The goal was to remove plaintext keys from the servers without making them harder to launch or scale.
