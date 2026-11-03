@@ -1,7 +1,7 @@
 # Christian Bekheit
 **Cybersecurity | Wentworth Institute of Technology (B.S., expected August 2027)**
 [GitHub](https://github.com/ChristianBekheit)
-
+[LinkedIn](https://www.linkedin.com/in/christianbekheit)
 ---
 
 ## Moving SSO Secrets Out of Plaintext on AWS
