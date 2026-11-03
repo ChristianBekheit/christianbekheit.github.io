@@ -1,7 +1,10 @@
 # Christian Bekheit
 **Cybersecurity | Wentworth Institute of Technology (B.S., expected August 2027)**
-[GitHub](https://github.com/ChristianBekheit)
+[GitHub](https://github.com/ChristianBekheit) | Bekheitc@wit.edu
 [LinkedIn](https://www.linkedin.com/in/christianbekheit)
+
+**About me.** Hi, I'm Christian, a cybersecurity student at Wentworth Institute of Technology in Boston. I like cloud security work where good design quietly removes risk: locking down access, protecting secrets, and making systems safe by default. The project below is a favorite from my internship, where I moved SSO keys out of plaintext and into AWS. Away from class, I tinker with a RAID home server, which is my testing ground for ideas I'd like to break and rebuild. I'm looking for a summer 2027 co-op in cloud security or technology risk. You can reach me at Bekheitc@wit.edu or on GitHub.
+
 ---
 
 ## Moving SSO Secrets Out of Plaintext on AWS
